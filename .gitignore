@@ -23,3 +23,9 @@ dist-ssr
 *.sln
 *.sw?
 deploy.md
+*.env
+NEXT_ACTION.txt
+QUICK_FIXES.md
+QUICK_START_COMMANDS.md
+DEPLOYMENT_NEXT_STEPS.md
+DOCKER_TRIVY_GUIDE.md
